@@ -1,16 +1,13 @@
-## Hi there 👋
+I'm John, a Software Engineer based on Colombia.
 
-<!--
-**john-mz/john-mz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build full stack applications.
 
-Here are some ideas to get you started:
+If an idea pops into my head, chances are I'll build it and ship it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tech stack is Angular, Tailwind, Php and mysql. My favorite tools are drawio, docker and git.
+
+I'm currently learning DevOps to improve the reliability of my projects.
+
+**Fun Facts:**
+- I'm excited for the early release of Hytale
+- **Hobbies:** automation, calisthenics, building things
