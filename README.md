@@ -15,10 +15,6 @@ I’m a Software Engineering student from Colombia, passionate about building fu
 - **AcademyConnect** — a platform that helps people find sports academies (boxing, BJJ, taekwondo, etc.) by city.  
 - **Cafe-Stock** — a PHP + MySQL inventory management system for small businesses.  
 - **Telegram Transcription Bot (n8n)** — a bot that receives a command and a video from a user, transcribes it, and returns an automatic summary using an n8n workflow.  
-- Multiple smaller projects and experiments: CRUD apps, Angular modules, real-time features, utilities, and more.
-
-You can explore everything here:  
-➡️ **https://github.com/john-mz?tab=repositories**
 
 ### 🎯 My Philosophy
 
