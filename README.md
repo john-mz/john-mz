@@ -1,6 +1,6 @@
 I'm John, a Software Engineer based on Colombia.
 
-I build full stack applications.
+I build Full Stack applications.
 
 If an idea pops into my head, chances are I'll build it and ship it.
 
