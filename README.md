@@ -12,7 +12,7 @@ I’m a Software Engineering student from Colombia, passionate about building fu
 
 ### ⚒️ Highlighted Projects
 
-- **AcademyConnect** — a platform that helps people find sports academies (boxing, BJJ, taekwondo, etc.) by city.  
+- **Solara** — Unified solar management: monitor all your panels and software providers in one place.
 - **Cafe-Stock** — a PHP + MySQL inventory management system for small businesses.  
 - **Telegram Transcription Bot (n8n)** — a bot that receives a command and a video from a user, transcribes it, and returns an automatic summary using an n8n workflow.  
 
