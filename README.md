@@ -5,7 +5,7 @@ I’m a Software Engineering student from Colombia, passionate about building fu
 ### 👨‍💻 What I Do
 
 - I design and build full-stack applications that solve real problems — from small utilities to full-blown web apps.  
-- **Main tech stack:** Angular, PHP, MySQL, Tailwind CSS  
+- **Main tech stack:** React, Firebase, Tailwind CSS, Shadcn
 - **Favorite tools:** Docker, Git, DrawIO  
 - I recently started working with **n8n**, building automation workflows and custom integrations.
 - I’m also diving into **DevOps practices** to improve deployment processes, scalability, and reliability of my projects.
